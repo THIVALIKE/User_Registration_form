@@ -1,0 +1,15 @@
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\User Registration form\Login_form\bin\Debug\Login_form.exe.config
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\User Registration form\Login_form\obj\Debug\Login_form.csprojResolveAssemblyReference.cache
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\User Registration form\Login_form\obj\Debug\Login_form.FORGOT_PASSWORD.resources
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\User Registration form\Login_form\obj\Debug\Login_form.Form1.resources
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\User Registration form\Login_form\obj\Debug\Login_form.Properties.Resources.resources
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\User Registration form\Login_form\obj\Debug\Login_form.Reset_password.resources
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\User Registration form\Login_form\obj\Debug\Login_form.Sign_up.resources
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\User Registration form\Login_form\obj\Debug\Login_form.csproj.GenerateResource.Cache
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\User Registration form\Login_form\bin\Debug\Login_form.exe
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\User Registration form\Login_form\bin\Debug\Login_form.pdb
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\User Registration form\Login_form\bin\Debug\User Registration form.dll
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\User Registration form\Login_form\bin\Debug\User Registration form.pdb
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\User Registration form\Login_form\obj\Debug\Login_form.exe
+C:\Users\ELCOT\Documents\Visual Studio 2012\Projects\User Registration form\Login_form\obj\Debug\Login_form.pdb
+C:\Users\ELCOT\documents\visual studio 2012\Projects\User Registration form\Login_form\obj\Debug\Login_form.user_bio.resources

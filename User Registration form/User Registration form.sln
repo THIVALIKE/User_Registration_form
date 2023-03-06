@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User Registration form", "User Registration form\User Registration form.csproj", "{6C414E52-D151-4641-80E6-D97722690677}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login_form", "Login_form\Login_form.csproj", "{437C8932-A669-4B83-A694-18E0988D1CC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C414E52-D151-4641-80E6-D97722690677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C414E52-D151-4641-80E6-D97722690677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C414E52-D151-4641-80E6-D97722690677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C414E52-D151-4641-80E6-D97722690677}.Release|Any CPU.Build.0 = Release|Any CPU
+		{437C8932-A669-4B83-A694-18E0988D1CC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{437C8932-A669-4B83-A694-18E0988D1CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{437C8932-A669-4B83-A694-18E0988D1CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{437C8932-A669-4B83-A694-18E0988D1CC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
